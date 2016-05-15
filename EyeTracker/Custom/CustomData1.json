@@ -1,0 +1,7 @@
+{	
+	"DisplayName":"I want to...",
+	"CustomDataOptions":[
+		{"OptionDisplay":"Eat"},
+		{"OptionDisplay":"Sleep"},
+		{"OptionDisplay":"Urinate"}]
+}
